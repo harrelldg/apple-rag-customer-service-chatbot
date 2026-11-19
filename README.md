@@ -20,6 +20,7 @@ The original Dify.ai workspace is no longer accessible because course access exp
 ## Documentation
 
 - `docs/project-report.md`: accessible text version of the submitted project report, with student identifiers removed.
+- `docs/presentation-summary.md`: concise summary of the presentation, including the knowledge base, RAG comparison, generation presets, prompt design and safety testing.
 
 ## Technologies
 
