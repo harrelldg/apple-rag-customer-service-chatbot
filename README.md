@@ -30,4 +30,4 @@ Dify.ai, retrieval-augmented generation, large language models, prompt engineeri
 
 ## Context
 
-Academic group project. Apple is the project subject, not an employer or project sponsor. Alibaba Cloud Academy was the course provider; no professional certification is claimed.
+Academic group project. Apple is the project subject, not an employer or project sponsor. Alibaba Cloud Academy was the course provider
