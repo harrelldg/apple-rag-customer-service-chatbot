@@ -1,6 +1,6 @@
 # Apple Customer Service RAG Chatbot
 
-A documentation-only showcase of a group project completed for GE1362 GenAI. Course provider: Alibaba Cloud Academy.
+A documentation-only showcase of a group project completed for GE1362 GenAI, delivered by Alibaba Cloud Academy as the course provider.
 
 **Portfolio:** https://github.com/harrelldg
 
@@ -30,4 +30,4 @@ Dify.ai, retrieval-augmented generation, large language models, prompt engineeri
 
 ## Context
 
-Academic group project. Apple is the project subject, not an employer or project sponsor. Alibaba Cloud Academy was the course provider
+Academic group project completed at City University of Hong Kong. Apple is the project subject, not an employer or project sponsor.
