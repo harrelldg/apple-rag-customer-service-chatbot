@@ -2,8 +2,6 @@
 
 A documentation-only showcase of an Apple customer-service assistant prototype developed with retrieval-augmented generation, prompt engineering, and Dify.ai, for a course provided by Alibaba Cloud Academy.
 
-**Portfolio:** https://github.com/harrelldg
-
 ## Project overview
 
 The assistant was designed to answer product FAQs, compare devices, provide support guidance, and recommend products based on user needs.
