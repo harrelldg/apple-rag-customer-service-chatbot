@@ -1,10 +1,6 @@
 # Apple Customer Service Assistant Project Report
 
-> Accessible summary of the original course submission. Student identifiers have been removed.
-
-## Team
-
-Group 28: GUNAWAN Harrell Dave, RAHARDJO Marvel Reswanda, and WU Frederico Owen.
+> Accessible summary of the original project report. Student identifiers have been removed.
 
 ## Objective
 
@@ -19,13 +15,13 @@ Develop an AI-powered customer-service assistant for Apple in Hong Kong using re
 
 ## Knowledge base
 
-The team collected and cleaned information primarily from Apple's official website, supplemented by selected third-party material. Experiments compared a non-RAG model, a RAG model with a small dataset, and a RAG model with an expanded dataset.
+Approximately 18 Apple product and support documents were collected and cleaned, primarily from Apple's official website and supplemented by selected third-party material. Experiments compared a non-RAG model, a RAG model with a small dataset, and a RAG model with an expanded dataset.
 
 The expanded knowledge base covered product specifications, pricing, warranty, basic support guidance, FAQs, and Apple Store locations and opening hours.
 
 ## Prompt and parameter design
 
-The team tested instruction design, variables, few-shot examples, and safety cases. Parameter presets included:
+The prototype tested instruction design, variables, few-shot examples, and safety cases. Parameter presets included:
 
 | Style | Temperature | Top-p | Other setting |
 |---|---:|---:|---|

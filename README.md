@@ -1,12 +1,12 @@
 # Apple Customer Service RAG Chatbot
 
-A documentation-only showcase of a group project completed for GE1362 GenAI, delivered by Alibaba Cloud Academy as the course provider.
+A documentation-only showcase of an Apple customer-service assistant prototype developed with retrieval-augmented generation, prompt engineering, and Dify.ai, for a course provided by Alibaba Cloud Academy.
 
 **Portfolio:** https://github.com/harrelldg
 
 ## Project overview
 
-The team prototyped an Apple customer-service assistant in Dify.ai using retrieval-augmented generation (RAG). The assistant answered product FAQs, compared devices, provided support guidance, and recommended products based on user needs.
+The assistant was designed to answer product FAQs, compare devices, provide support guidance, and recommend products based on user needs.
 
 ## Approach
 
@@ -17,11 +17,11 @@ The team prototyped an Apple customer-service assistant in Dify.ai using retriev
 
 ## Repository status
 
-The original Dify.ai workspace is no longer accessible because course access expired. This repository therefore preserves the project report and methodology; it does not claim to contain deployable source code or an active chatbot.
+This repository preserves the project report and methodology. It does not contain deployable source code or an active chatbot.
 
 ## Documentation
 
-- `docs/project-report.md`: accessible text version of the submitted project report, with student identifiers removed.
+- `docs/project-report.md`: accessible text version of the project report.
 - `docs/presentation-summary.md`: concise summary of the presentation, including the knowledge base, RAG comparison, generation presets, prompt design and safety testing.
 
 ## Technologies
@@ -30,4 +30,4 @@ Dify.ai, retrieval-augmented generation, large language models, prompt engineeri
 
 ## Context
 
-Academic group project completed at City University of Hong Kong. Apple is the project subject, not an employer or project sponsor.
+Apple is the project subject, not an employer or project sponsor.

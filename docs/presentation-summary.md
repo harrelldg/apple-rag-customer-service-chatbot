@@ -6,11 +6,11 @@ The presentation introduced a Hong Kong-focused Apple customer-service assistant
 
 ## Knowledge base
 
-The team assembled approximately 18 Apple product and support documents. The material covered product specifications, Hong Kong pricing, warranties, FAQs, support information and Apple Store locations. These sources supplied the retrieved context used by the RAG workflow.
+Approximately 18 Apple product and support documents were assembled. The material covered product specifications, Hong Kong pricing, warranties, FAQs, support information and Apple Store locations. These sources supplied the retrieved context used by the RAG workflow.
 
 ## RAG comparison
 
-The team compared three configurations:
+Three configurations were compared:
 
 1. A language model without retrieval-augmented generation.
 2. RAG with a small initial knowledge base.
@@ -29,7 +29,7 @@ Four response styles were explored:
 | Precise | Temperature 0.2; top-p 0.4 |
 | Concise | Maximum 100 output tokens |
 
-The balanced configuration shown in the presentation used `qwen-max`, temperature 0.5, top-p 0.7 and a 512-token output limit. The team found that balanced settings supported readable answers without making them overly rigid or overly variable.
+The balanced configuration shown in the presentation used `qwen-max`, temperature 0.5, top-p 0.7 and a 512-token output limit. Balanced settings supported readable answers without making them overly rigid or overly variable.
 
 ## Prompt and safety design
 
@@ -44,4 +44,4 @@ The system prompt combined an Apple customer-service role, instructions to rely 
 
 ## Scope
 
-This document summarises the academic presentation. It does not provide the original slides, deployable source code, a live chatbot or access to the former Dify workspace.
+This document summarises the original presentation. It does not provide the original slides, deployable source code, a live chatbot or access to the former Dify workspace.
