@@ -1,6 +1,8 @@
 # Apple Customer Service RAG Chatbot
 
-A documentation-only showcase of a group project completed for GE1362 GenAI with Alibaba Cloud Academy at City University of Hong Kong. Course grade: A+.
+A documentation-only showcase of a group project completed for GE1362 GenAI. Course provider: Alibaba Cloud Academy.
+
+**Portfolio:** https://github.com/harrelldg
 
 ## Project overview
 
